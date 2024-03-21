@@ -5,3 +5,15 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Working folders
+notebooks/figures/
+notebooks/utils/
+notebooks/old/
+
+# Mac files
+*.DS_Store
+
+# Large objects
+notebooks/files/noise_ends*
+notebooks/files/y_noise*
