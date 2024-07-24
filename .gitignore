@@ -15,5 +15,4 @@ notebooks/old/
 *.DS_Store
 
 # Large objects
-notebooks/files/noise_ends*
-notebooks/files/y_noise*
+notebooks/files/
