@@ -1,4 +1,4 @@
-# Code for Bhasin et al., Synaptic weight dynamics underlying systems consolidation of a memory
+# Code for Bhasin et al., Synaptic weight dynamics underlying memory consolidation: implications for learning rules, circuit organization, and circuit function
 
 Simulations are broken into six Jupyter notebooks, located in the `notebooks` directory of the repository:
 - `simulations-heterosynaptic.ipynb`: consolidation in the feedforward circuit model with the heterosynaptic rule at the late-learning site (Figs. 2, S1), including perturbation of the early-learning site (Figs. 3, S2)
